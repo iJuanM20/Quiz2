@@ -1,0 +1,52 @@
+.divPadre{
+    
+    text-align: center;
+}
+
+div#myDiv{
+    
+    height: 300px;
+    background-image: url('https://images.pexels.com/photos/1525041/pexels-photo-1525041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;
+    }
+
+.h{
+
+   margin-top: 100PX;
+}    
+
+.divTres{
+
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.imagenesTamaño{
+
+    width:200px ;
+    height: 200px;
+
+
+}
+
+.divCinco{
+
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.divCincoGris{
+
+    background-color: gray
+}
+
+.divCincoRojo{
+
+    background-color: red;
+}
